@@ -37,6 +37,7 @@
 
 <!--
 **strive-man/strive-man** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://s1.aigei.com/src/img/gif/61/61cc5d87e0dc4878be276ae48277026f.gif?imageMogr2/auto-orient/thumbnail/!240x240r/gravity/Center/crop/240x240/quality/85/&e=1735488000&token=P7S2Xpzfz11vAkASLTkfHN7Fw-oOZBecqeJaxypL:Yomp16hhWDB_6qBwaxukgqLG3xQ="> 
 
 Here are some ideas to get you started:
 
