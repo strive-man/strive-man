@@ -1,10 +1,14 @@
 # Hi，Nice to meet you 😎
 
-😊**Welcome to my page！I'm Zhang Guoqiang from Henan Province, China**
+🎭**Welcome to my page！I'm Zhang Guoqiang from Henan Province, China**🎭
+### Me：
+- 🤠 **A programmer**
 
-🎃**A man who likes trying new thing**
+- 🤠 **A man who likes trying new thing**
 
-🎭 **NEVER STOP FIGHTING!**
+### Motto：
+
+- **NEVER STOP FIGHTING!**
 
 
 
