@@ -1,10 +1,11 @@
 # Hi，Nice to meet you 😎
 
-🔶🔸🔶🔸🔶🔸🔶🔸🔶🔸🔶🔸🔶🔸🔶🔸🔶🔸🔶🔸🔶🔸🔶🔸🔶
-
 😊**Welcome to my page！I'm Zhang Guoqiang from Henan Province, China**
 
-🔶🔸🔶🔸🔶🔸🔶🔸🔶🔸🔶🔸🔶🔸🔶🔸🔶🔸🔶🔸🔶🔸🔶🔸🔶
+🎃**A man who likes trying new thing**
+
+🎭 **NEVER STOP FIGHTING!**
+
 
 
 
