@@ -7,6 +7,10 @@
 🎭 **NEVER STOP FIGHTING!**
 
 
+<img src="https://cdn.pixabay.com/animation/2022/11/10/13/22/13-22-56-246_512.gif">
+
+
+
 
 
 
