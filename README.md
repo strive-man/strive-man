@@ -8,10 +8,8 @@
 
 
 
- <img src="https://s1.aigei.com/src/img/gif/61/61cc5d87e0dc4878be276ae48277026f.gif?imageMogr2/auto-orient/thumbnail/!240x240r/gravity/Center/crop/240x240/quality/85/&e=1735488000&token=P7S2Xpzfz11vAkASLTkfHN7Fw-oOZBecqeJaxypL:Yomp16hhWDB_6qBwaxukgqLG3xQ=">    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=strive-man&show_icons=true&theme=radical)  <img src="https://s1.aigei.com/src/img/gif/61/61cc5d87e0dc4878be276ae48277026f.gif?imageMogr2/auto-orient/thumbnail/!240x240r/gravity/Center/crop/240x240/quality/85/&e=1735488000&token=P7S2Xpzfz11vAkASLTkfHN7Fw-oOZBecqeJaxypL:Yomp16hhWDB_6qBwaxukgqLG3xQ="> 
 
-
-
+ <img src="https://s1.aigei.com/src/img/gif/33/33731fee501442299c6d8b4d6c184444.gif?e=1735488000&token=P7S2Xpzfz11vAkASLTkfHN7Fw-oOZBecqeJaxypL:0LPMV_mkzswABt_lWcKgFagNyww=">  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=strive-man&show_icons=true&theme=radical)  <img src="https://s1.aigei.com/src/img/gif/33/33731fee501442299c6d8b4d6c184444.gif?e=1735488000&token=P7S2Xpzfz11vAkASLTkfHN7Fw-oOZBecqeJaxypL:0LPMV_mkzswABt_lWcKgFagNyww=">  
 
 
 
@@ -45,4 +43,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+ <img src="https://s1.aigei.com/src/img/gif/dc/dc0b693147ea4629a9dcfcda8aa4b356.gif?imageMogr2/auto-orient/thumbnail/!240x240r/gravity/Center/crop/240x240/quality/85/&e=1735488000&token=P7S2Xpzfz11vAkASLTkfHN7Fw-oOZBecqeJaxypL:btSsxdaOLq0LAiZvlTS6vE21xv4="> 
+
+ <img src="https://s1.aigei.com/src/img/gif/61/61cc5d87e0dc4878be276ae48277026f.gif?imageMogr2/auto-orient/thumbnail/!240x240r/gravity/Center/crop/240x240/quality/85/&e=1735488000&token=P7S2Xpzfz11vAkASLTkfHN7Fw-oOZBecqeJaxypL:Yomp16hhWDB_6qBwaxukgqLG3xQ=">    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=strive-man&show_icons=true&theme=radical)  <img src="https://s1.aigei.com/src/img/gif/61/61cc5d87e0dc4878be276ae48277026f.gif?imageMogr2/auto-orient/thumbnail/!240x240r/gravity/Center/crop/240x240/quality/85/&e=1735488000&token=P7S2Xpzfz11vAkASLTkfHN7Fw-oOZBecqeJaxypL:Yomp16hhWDB_6qBwaxukgqLG3xQ="> 
+
+
 -->
