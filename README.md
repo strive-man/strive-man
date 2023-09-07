@@ -16,6 +16,7 @@
  <img src="https://s1.aigei.com/src/img/gif/33/33731fee501442299c6d8b4d6c184444.gif?e=1735488000&token=P7S2Xpzfz11vAkASLTkfHN7Fw-oOZBecqeJaxypL:0LPMV_mkzswABt_lWcKgFagNyww=">  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=strive-man&show_icons=true&theme=radical)  <img src="https://s1.aigei.com/src/img/gif/33/33731fee501442299c6d8b4d6c184444.gif?e=1735488000&token=P7S2Xpzfz11vAkASLTkfHN7Fw-oOZBecqeJaxypL:0LPMV_mkzswABt_lWcKgFagNyww=">  
 
 
+ [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=strive-man&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
@@ -23,8 +24,7 @@
 
 
 
-
-
+<div align="center">   </div>
 
 
 
