@@ -10,8 +10,8 @@
 
 - **NEVER STOP FIGHTING!**
 
-### Make Friends With Me： <br>
-&nbsp;&nbsp;&nbsp;<a href="https://eturl.cn/GCw3dP"> <img width="72" alt="image" src="https://github.com/strive-man/strive-man/assets/92583611/d8481bfb-3a7c-4138-b06a-64131dc7a47a"></a>
+### Make Friends With Me[click]： <br>
+&nbsp;&nbsp;&nbsp;<a href="https://eturl.cn/GCw3dP"> <img width="88" alt="image" src="https://github.com/strive-man/strive-man/assets/92583611/ad4b4356-e609-479c-824d-51bac52cc593"></a>
 
 <p align="left">
 </p>
