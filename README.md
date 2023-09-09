@@ -9,9 +9,8 @@
 ### Motto：
 
 - **NEVER STOP FIGHTING!**
-
-### Make Friends With Me[click]： <br>
-&nbsp;&nbsp;&nbsp;<a href="https://eturl.cn/GCw3dP"> <img width="88" alt="image" src="https://github.com/strive-man/strive-man/assets/92583611/ad4b4356-e609-479c-824d-51bac52cc593"></a>
+### Make Friends With Me：
+<a href="https://eturl.cn/GCw3dP"> &nbsp;&nbsp;&nbsp;&nbsp;**-🙋 Click here** </a>
 
 <p align="left">
 </p>
