@@ -10,7 +10,7 @@
 
 - **NEVER STOP FIGHTING!**
 ### Make Friends With Me：
-<a style="text-decoration: none" href="https://eturl.cn/GCw3dP"> &nbsp;&nbsp;&nbsp;&nbsp;**-🙋 Click here** </a>
+<a href="https://eturl.cn/GCw3dP" target="_blank" rel="noreferrer"> &nbsp;&nbsp;&nbsp;&nbsp;**-🙋 Click here** </a>
 
  
 <p align="left">
