@@ -17,7 +17,7 @@
 
 你可以在这里查看 HTML 代码的效果：
 
-[GitHub Pages](https://strive-man.github.io/Cool_Play/)
+[GitHub Pages](https://strive-man.github.io/strive-man)
 
  
 <p align="left">
