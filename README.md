@@ -13,11 +13,9 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;[**-🙋Click Here**](https://eturl.cn/GCw3dP)
 
-# GitHub README HTML 示例
+### 逗鲨鱼玩
 
-你可以在这里查看 HTML 代码的效果：
-
-[GitHub Pages](https://strive-man.github.io/strive-man)
+&nbsp;&nbsp;&nbsp;&nbsp;[**-🪄Click Here**](https://strive-man.github.io/strive-man)
 
  
 <p align="left">
