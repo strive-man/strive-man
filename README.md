@@ -25,7 +25,7 @@
 <p align="left">
 </p>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://s1.4sai.com/src/img/gif/02/02584b7f729a456ab1e4bd3d801b39d8.gif?e=1735488000&token=1srnZGLKZ0Aqlz6dk7yF4SkiYf4eP-YrEOdM1sob:qbFE7cHGyPlf-5y7kviI_5_uMRg="> <img src="https://github-readme-stats.vercel.app/api?username=strive-man&show_icons=true&locale=en" alt="strive-man" />  <img src="https://s1.4sai.com/src/img/gif/02/02584b7f729a456ab1e4bd3d801b39d8.gif?e=1735488000&token=1srnZGLKZ0Aqlz6dk7yF4SkiYf4eP-YrEOdM1sob:qbFE7cHGyPlf-5y7kviI_5_uMRg="> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://s1.4sai.com/src/img/gif/02/02584b7f729a456ab1e4bd3d801b39d8.gif?e=1735488000&token=1srnZGLKZ0Aqlz6dk7yF4SkiYf4eP-YrEOdM1sob:qbFE7cHGyPlf-5y7kviI_5_uMRg=">  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=strive-man&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />  <img src="https://s1.4sai.com/src/img/gif/02/02584b7f729a456ab1e4bd3d801b39d8.gif?e=1735488000&token=1srnZGLKZ0Aqlz6dk7yF4SkiYf4eP-YrEOdM1sob:qbFE7cHGyPlf-5y7kviI_5_uMRg="> 
 
 
 
@@ -64,6 +64,10 @@
  <img src="https://s1.aigei.com/src/img/gif/33/33731fee501442299c6d8b4d6c184444.gif?e=1735488000&token=P7S2Xpzfz11vAkASLTkfHN7Fw-oOZBecqeJaxypL:0LPMV_mkzswABt_lWcKgFagNyww=">  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=strive-man&show_icons=true&theme=radical)  <img src="https://s1.aigei.com/src/img/gif/33/33731fee501442299c6d8b4d6c184444.gif?e=1735488000&token=P7S2Xpzfz11vAkASLTkfHN7Fw-oOZBecqeJaxypL:0LPMV_mkzswABt_lWcKgFagNyww=">  
 
 Here are some ideas to get you started:
+
+
+<div align="center"> 
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
