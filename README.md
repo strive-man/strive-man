@@ -13,7 +13,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;[**-🙋Click Here**](https://eturl.cn/GCw3dP)
 
-### 逗鲨鱼玩
+### 逗鲨鱼-Play with sharks:
 
 &nbsp;&nbsp;&nbsp;&nbsp;[**-🪄Click Here**](https://strive-man.github.io/strive-man)
 
