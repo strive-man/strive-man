@@ -28,6 +28,9 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://s1.4sai.com/src/img/gif/02/02584b7f729a456ab1e4bd3d801b39d8.gif?e=1735488000&token=1srnZGLKZ0Aqlz6dk7yF4SkiYf4eP-YrEOdM1sob:qbFE7cHGyPlf-5y7kviI_5_uMRg=">  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=strive-man&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />  <img src="https://s1.4sai.com/src/img/gif/02/02584b7f729a456ab1e4bd3d801b39d8.gif?e=1735488000&token=1srnZGLKZ0Aqlz6dk7yF4SkiYf4eP-YrEOdM1sob:qbFE7cHGyPlf-5y7kviI_5_uMRg="> 
 
+ <img width="291" alt="image" src="https://github.com/strive-man/strive-man/assets/92583611/3ca16a45-a57c-4e7d-bf57-fcbe385e8e9e"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width="291" alt="image" src="https://github.com/strive-man/strive-man/assets/92583611/86a8f36b-7a67-4320-9aad-b94cc38925d3">
+
+
 
 
 
