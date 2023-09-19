@@ -9,9 +9,6 @@
 ### Motto：
 
 - **NEVER STOP FIGHTING!**
-### Make Friends With Me：
-
-&nbsp;&nbsp;&nbsp;&nbsp;[**-🙋Click Here**](https://eturl.cn/GCw3dP)
 
 ### 逗鲨鱼-Play with sharks:
 
@@ -69,7 +66,9 @@
 
 Here are some ideas to get you started:
  <img width="291" alt="image" src="https://github.com/strive-man/strive-man/assets/92583611/3ca16a45-a57c-4e7d-bf57-fcbe385e8e9e"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width="291" alt="image" src="https://github.com/strive-man/strive-man/assets/92583611/86a8f36b-7a67-4320-9aad-b94cc38925d3">
+### Make Friends With Me：
 
+&nbsp;&nbsp;&nbsp;&nbsp;[**-🙋Click Here**](https://eturl.cn/GCw3dP)
 <div align="center"> 
 
 
