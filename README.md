@@ -10,7 +10,7 @@
 
 - **NEVER STOP FIGHTING!**
 
-### 逗鲨鱼-Play with sharks:
+### 逗鲨鱼-Play with a shark:
 
 &nbsp;&nbsp;&nbsp;&nbsp;[**-🪄Click Here**](https://strive-man.github.io/strive-man)
 
